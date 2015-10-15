@@ -2,8 +2,6 @@ __author__ = 'jc231642'
 
 print('Area calculator')
 
-
-
 width = float(input('Enter Width:'))
 height = float(input('Enter Height:'))
 depth = float(input('Enter Depth:'))
