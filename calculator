@@ -1,0 +1,15 @@
+__author__ = 'jc231642'
+
+print('Area calculator')
+
+
+
+width = float(input('Enter Width:'))
+height = float(input('Enter Height:'))
+depth = float(input('Enter Depth:'))
+area = width * height
+volume = width * height * depth
+
+def calc_area(width, height):
+    return "Area:"
+print(width, height, area, volume)
